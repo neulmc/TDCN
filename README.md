@@ -37,11 +37,12 @@ And multiple experiments in this paper demonstrate the effectiveness of our meth
 5. The metric code is in metric folder. It may require additional support libraries, please refer to [pdollar Repository](https://github.com/pdollar/edges).
 
 We have released the final prediction and evaluation results, which can be downloaded at the following link:
-https://pan.baidu.com/s/18kffTYRmriSkBVVfWeLsZg Code：addo
+https://pan.baidu.com/s/1z3G2N3PePY9ex1SG3wJXsw?pwd=7z7m Code：7z7m
+
 ### Final models
 This is the final model in our paper. We used this model to evaluate. You can download by: 
 
-https://pan.baidu.com/s/1HUYnFOK6Sb9KK0OMu27uaQ Code：9cs5
+https://pan.baidu.com/s/1m0Ufgl5rIcvi59yXKUedjg?pwd=65zn Code：65zn
 
 ### Acknowledgment
 Part of our code comes from [RCF Repository](https://github.com/yun-liu/rcf#testing-rcf), [Pidinet Repository](https://github.com/zhuoinoulu/pidinet). We are very grateful for these excellent works.
