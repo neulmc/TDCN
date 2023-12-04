@@ -30,7 +30,7 @@ And multiple experiments in this paper demonstrate the effectiveness of our meth
     wget http://mftp.mmcheng.net/liuyun/rcf/data/PASCAL.tar.gz
     wget http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
     ```
-3. Download the related .lst file for query. The link is https://drive.google.com/drive/folders/1SuGEGF3LKmy1Ycvf9H2MsEHq9RmGQbiI?usp=sharing.
+3. Download the related .lst file for query. The link is https://drive.google.com/drive/folders/1dlkSk9SyniHI4JOIuLhgc7J6GT69QRc5?usp=drive_link.
 
 4. Run the training code main.py (for BSDS500) or main_multi.py (for NYUD, or mutiple datasets).
 
